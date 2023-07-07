@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeviceDriver", "DeviceDriver\DeviceDriver.vcxproj", "{42163249-2002-4CEF-8BC1-43164F016A6B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample-Test1", "Sample-Test1\Sample-Test1.vcxproj", "{C27A8A44-256B-4760-A432-C349EFC5938C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A76758C9-4B0A-4E26-86FD-854AFE352720}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +28,14 @@ Global
 		{42163249-2002-4CEF-8BC1-43164F016A6B}.Release|x64.Build.0 = Release|x64
 		{42163249-2002-4CEF-8BC1-43164F016A6B}.Release|x86.ActiveCfg = Release|Win32
 		{42163249-2002-4CEF-8BC1-43164F016A6B}.Release|x86.Build.0 = Release|Win32
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Debug|x64.ActiveCfg = Debug|x64
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Debug|x64.Build.0 = Debug|x64
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Debug|x86.Build.0 = Debug|Win32
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Release|x64.ActiveCfg = Release|x64
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Release|x64.Build.0 = Release|x64
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Release|x86.ActiveCfg = Release|Win32
+		{C27A8A44-256B-4760-A432-C349EFC5938C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
